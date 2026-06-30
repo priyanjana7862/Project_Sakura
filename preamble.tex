@@ -4,7 +4,7 @@
 
 % Character Encoding
 \usepackage[utf8]{inputenc}
-
+\usepackage{fancyhdr}
 % Better Fonts
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
@@ -14,6 +14,40 @@
 
 % Graphics Support
 \usepackage{graphicx}
-
+\setlength{\headheight}{14pt}
 % Hyperlinks
 \usepackage[hidelinks]{hyperref}
+\pagestyle{fancy}
+
+\fancyhf{}
+
+\fancyhead[L]{Project Sakura}
+
+\fancyhead[R]{Pasindu Priyanjana}
+
+\fancyfoot[C]{\thepage}
+% Better Typography
+%\usepackage{microtype}
+
+% Better Paragraph Formatting
+\usepackage{setspace}
+
+% Better Indentation
+\setlength{\parindent}{0pt}
+
+% Space Between Paragraphs
+\setlength{\parskip}{0.8em}
+
+% Line Spacing
+\onehalfspacing
+% Better Chapter Titles
+\usepackage{titlesec}
+% ==========================
+% Chapter Style
+% ==========================
+
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}
+{\chaptername\ \thechapter}
+{20pt}
+{\Huge}

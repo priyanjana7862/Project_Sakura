@@ -1,27 +1,41 @@
 \documentclass[11pt,openany]{book}
 
+% ==========================
+% Load all packages
+% ==========================
 \input{preamble}
+
+% ==========================
+% Book Information
+% ==========================
+\title{Pasindu's Road to Success in Japan}
+\author{Pasindu Priyanjana}
+\date{\today}
 
 \begin{document}
 
-% -----------------------
+% ==========================
 % Front Matter
-% -----------------------
-
+% ==========================
 \frontmatter
 
-\input{frontmatter/tittlepage}
+\maketitle
 
 \input{frontmatter/copyright}
 
+\input{frontmatter/preface}
+
+\input{frontmatter/acknowledgements}
+
 \tableofcontents
 
-% -----------------------
-% Main Matter
-% -----------------------
-
+% Start main content
+\clearpage
 \mainmatter
 
+% ==========================
+% Chapters
+% ==========================
 \input{chapters/chapter1}
 
 \end{document}
