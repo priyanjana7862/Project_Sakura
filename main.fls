@@ -98,6 +98,11 @@ INPUT c:/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT ./commands.tex
+INPUT ./commands.tex
+INPUT ./commands.tex
+INPUT ./commands.tex
+INPUT commands.tex
 INPUT c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd

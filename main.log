@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.29)  30 JUN 2026 22:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.29)  30 JUN 2026 22:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,8 +229,8 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen167
 \titlewidthlast=\dimen168
 \titlewidthfirst=\dimen169
-))
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 15.
+)) (./commands.tex)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16.
  (c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -239,24 +239,24 @@ File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -311,7 +311,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 16.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -367,41 +367,40 @@ Chapter 1.
 (./sections/chapter1/welcome.tex) (./sections/chapter1/why-this-book.tex) (./sections/chapter1/who-is-this-book-for.tex) (./sections/chapter1/mission.tex [1
 
 ]) (./sections/chapter1/what-you-will-learn.tex) (./sections/chapter1/how-to-use-this-book.tex)) (./chapters/chapter2.tex [2]
-<images/chapter2/gtr-silhouette.png, id=118, 1090.0725pt x 1453.43pt>
-File: images/chapter2/gtr-silhouette.png Graphic file (type png)
-<use images/chapter2/gtr-silhouette.png>
-Package pdftex.def Info: images/chapter2/gtr-silhouette.png  used on input line 9.
-(pdftex.def)             Requested size: 472.84706pt x 630.45189pt.
-
-Overfull \hbox (19.87917pt too wide) in paragraph at lines 9--9
- [] 
- []
-
+Chapter 2.
 [3
 
- <./images/chapter2/gtr-silhouette.png (PNG copy)>] (./sections/chapter2/introduction.tex) (./sections/chapter2/before-japan.tex) (./sections/chapter2/why-japan.tex) (./sections/chapter2/first-impressions.tex [4
+] [4
 
-]) (./sections/chapter2/challenges.tex) (./sections/chapter2/lessons-learned.tex) (./sections/chapter2/looking-ahead.tex [5])) [6] (./main.aux)
+]
+<images/chapter2/gtr-silhouette.png, id=131, 1090.0725pt x 1453.43pt>
+File: images/chapter2/gtr-silhouette.png Graphic file (type png)
+<use images/chapter2/gtr-silhouette.png>
+Package pdftex.def Info: images/chapter2/gtr-silhouette.png  used on input line 5.
+(pdftex.def)             Requested size: 452.9679pt x 603.9606pt.
+ [5 <./images/chapter2/gtr-silhouette.png (PNG copy)>] (./sections/chapter2/introduction.tex) (./sections/chapter2/before-japan.tex) (./sections/chapter2/why-japan.tex) (./sections/chapter2/first-impressions.tex [6
+
+]) (./sections/chapter2/challenges.tex) (./sections/chapter2/lessons-learned.tex) (./sections/chapter2/looking-ahead.tex [7])) [8] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C85F9EF8A43470B1BA848B7190DC11C0;1996.
+(rerunfilecheck)             Checksum: CB9CB8CE7CD90CA77D1B5DF89FA53592;2140.
  ) 
 Here is how much of TeX's memory you used:
- 10227 strings out of 467168
- 162180 string characters out of 5413705
- 584260 words of memory out of 5000000
- 39280 multiletter control sequences out of 15000+600000
+ 10240 strings out of 467168
+ 162354 string characters out of 5413705
+ 584345 words of memory out of 5000000
+ 39287 multiletter control sequences out of 15000+600000
  671446 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,11n,82p,412b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on main.pdf (12 pages, 1356083 bytes).
+Output written on main.pdf (14 pages, 1357821 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
